@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "no_tutorial_toasts",
+  "id": "no_tutorial_toast",
   "version": "${version}",
   "name": "No Tutorial Toasts",
   "description": "How did they even get out of the toaster?",
@@ -9,10 +9,10 @@
   ],
   "license": "LGPL-v3",
 
-  "icon": "assets/no_tutorial_toasts/icon.png",
+  "icon": "assets/no_tutorial_toast/icon.png",
   "environment": "client",
   "mixins": [
-    "no_tutorial_toasts.mixins.json"
+    "no_tutorial_toast.mixins.json"
   ],
 
   "depends": {
