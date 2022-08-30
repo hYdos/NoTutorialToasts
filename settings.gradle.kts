@@ -1,4 +1,4 @@
-rootProject.name = "hydos_ExampleMod"
+rootProject.name = "NoTutorialToasts"
 
 pluginManagement {
     repositories {
